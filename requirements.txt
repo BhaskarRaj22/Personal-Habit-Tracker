@@ -1,0 +1,5 @@
+# Requirements for Personal Productivity Assistant
+
+rich
+prompt_toolkit
+python-dateutil
