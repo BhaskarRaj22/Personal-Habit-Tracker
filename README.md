@@ -44,6 +44,4 @@ python main.py
 - Fork this repository on GitHub
 - Modify or extend any module (e.g., add new commands, change storage backend)
 - PRs and suggestions are welcome!
-
-## Developer
-Developer: tubakhxn
+
