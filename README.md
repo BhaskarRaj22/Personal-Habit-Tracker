@@ -21,12 +21,7 @@ An advanced CLI-based productivity assistant to help you manage tasks, goals, ha
 - `show summary`
 
 ## Installation
-1. **Clone the repository**
-   ```sh
-   git clone <your-fork-url>
-   cd Personal Productivity Assistant
-   ```
-2. **Install dependencies**
+1. **Install dependencies**
    ```sh
    pip install -r requirements.txt
    ```
@@ -42,6 +37,5 @@ python main.py
 
 ## How to Fork and Customize
 - Fork this repository on GitHub
-- Modify or extend any module (e.g., add new commands, change storage backend)
-- PRs and suggestions are welcome!
+- Modify or extend any module (e.g., add new commands, change storage backend)
 
