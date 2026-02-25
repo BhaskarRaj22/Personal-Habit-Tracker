@@ -33,9 +33,4 @@ python main.py
 
 ## Data Storage
 - All data (tasks, habits, focus sessions) is stored in a local SQLite database (`assistant.db`).
-- No data leaves your machine. Safe, private, and persistent.
-
-## How to Fork and Customize
-- Fork this repository on GitHub
-- Modify or extend any module (e.g., add new commands, change storage backend)
-
+- No data leaves your machine. Safe, private, and persistent.
